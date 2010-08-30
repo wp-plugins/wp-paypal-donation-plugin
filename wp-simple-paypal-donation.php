@@ -2,10 +2,11 @@
 /*
 Plugin Name: WP Paypal Donation
 Version: v1.1
-Plugin URI: http://www.shrawasti.com
+Plugin URI: http://www.shrawasti.com/about/development-center/
 Author: Atif Mohammad
-Author URI: http://www.shrawasti.com/atif
+Author URI: http://www.shrawasti.com/atif/
 Plugin Description: Wordpress plugin to receive donation in one click. Can be used in the sidebar, posts and pages.
+WordPress PayPal Donations Plugin uses IPN to ensure the values are correct and you can also chose to display your total donations to date.
 */
 
 /*

@@ -7,6 +7,7 @@ Tested up to: 2.7.1
 Stable tag: 1.0
 
 Very easy to use Simple WordPress Paypal Donation Plugin. Wordpress plugin to recieve Donation in one click. Can be used in the sidebar, posts and pages.
+WordPress PayPal Donations Plugin uses IPN to ensure the values are correct and you can also chose to display your total donations to date.
 
 == Description ==
 Wordpress plugin to recieve donation in multiple currencies in one click. Can be used in the sidebar, posts and pages.
