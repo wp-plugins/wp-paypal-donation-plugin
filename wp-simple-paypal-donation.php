@@ -33,7 +33,7 @@ function paypalDonationReceive()
     $donation_currency = get_option('paypal_donation_currency');
     $paypal_subject = get_option('wp_paypal_donate_header');
 	$paypal_return_url_ = get_option('paypal_return_url');
-	$donation_button = get_bloginfo('wpurl')."/wp-content/plugins/wp-simple-paypal-donation/donate_btn.gif";
+	$donation_button = get_bloginfo('wpurl')."/wp-content/plugins/wp-paypal-donation-plugin/donate_btn.gif";
 
     /* === Paypal form === */
     $output_ .= '
