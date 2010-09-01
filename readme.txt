@@ -13,7 +13,7 @@ Wordpress plugin to recieve donation in multiple currencies in one click. Can be
 WordPress PayPal Donations Plugin uses IPN to ensure the values are correct and you can also chose to display your total donations to date.
 
 For screenshots, more information and updates, please visit:
-http://www.shrawasti.com/
+http://www.shrawasti.com/about/development-center/
 
 Usage:
 There are three ways you can use this plugin:
@@ -36,6 +36,6 @@ There are three ways you can use this plugin:
 4. Does this plugin use a return URL to redirect customers to a specified page after Paypal has processed the payment? Yes.
 
 == Screenshots ==
-Visit the plugin site at for screenshots http://www.shrawasti.com/
+Visit the plugin site at for screenshots http://www.shrawasti.com/about/development-center/
 
 
